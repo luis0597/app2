@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.app2-MOG"
+version = "1.0.0">
+
+<name>PhoneGap-Gonzalez Ramos</name>
+
+<description>
+Aplicacion que describe el funcionamiento de PhoneGap
+</description>
+
+<author email="luis.0597@hotmail.com">
+Luis Gonzalez
+</author>
+
+<icon src="images/icono.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/icono.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/icono.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/icono.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
